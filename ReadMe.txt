@@ -14,3 +14,8 @@ http://newfirebird.cs.txstate.edu/~ckw91/demo/proc/unix-version/html/index-py.ht
 http://newfirebird.cs.txstate.edu/~wcy14/demo/proc/unix-version/html/index-py.html
 
 All the changes are present in both team members' server files , therefore, any of above URLs could be used to view the project.
+
+![](https://github.com/SaiPranavDatrika/SurfJob/blob/main/Screenshots/1.1.png)
+![](https://github.com/SaiPranavDatrika/SurfJob/blob/main/Screenshots/1.2.png)
+![](https://github.com/SaiPranavDatrika/SurfJob/blob/main/Screenshots/4.21.png)
+![](https://github.com/SaiPranavDatrika/SurfJob/blob/main/Screenshots/4.22.png)
