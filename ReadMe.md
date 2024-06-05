@@ -17,3 +17,4 @@ All the changes are present in both team members' server files , therefore, any 
 
 ![](https://github.com/SaiPranavDatrika/SurfJob/raw/main/4.1.png)
 
+![](https://github.com/SaiPranavDatrika/SurfJob/blob/main/Screenshots/2.2.png)
