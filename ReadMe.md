@@ -1,4 +1,4 @@
-Team Members : Krishna Vamsi Somu(wcy14) and Sai Pranav Datrika(ckw91)
+Team Members : Krishna Vamsi Somu and Sai Pranav Datrika
 
 As a part of this project, we worked on the Python/Oracle version of the demo program.
 
